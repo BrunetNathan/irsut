@@ -1,3 +1,3 @@
 import os
 
-test = 0
+test = 1
